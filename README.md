@@ -23,7 +23,7 @@ This project is a solution to the [Blog Preview Card coding challenge on Fronten
 
 ### Links
 
-- [Live Demo](https://your-live-demo-link.com)
+- [Live Demo](https://gar-st.github.io/blog-preview-card/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ## Built With
